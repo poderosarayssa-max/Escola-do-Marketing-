@@ -1,6 +1,4 @@
-# 🌐 Escola do Marketing Digital - Método NH
-
-![Banner](https://i.imgur.com/8Q3hF3M.png)  
+# 🌐 Escola do Marketing Digital - Método NH 
 *Transforme o digital em fonte de renda com vendas automáticas!*
 
 ---
@@ -40,4 +38,3 @@ O **Método NH** é um guia completo que mostra como qualquer pessoa pode usar o
 
 ✨ Feito com dedicação para **impactar vidas através do Marketing Digital**.
 
-![GIF Motivacional](https://i.imgur.com/J7V9d8k.gif)
